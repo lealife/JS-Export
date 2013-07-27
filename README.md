@@ -7,6 +7,7 @@ JS导出数据, 将[DataTables](http://www.datatables.net)的导出文件的代�
 用法:
 注: 需要在服务器上运行, 单独不能运行.
 JS:
+
 	$(function() {
 		new LifeExport({
 			embedId: "lifeExportExcel", // embedId
